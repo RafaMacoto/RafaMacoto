@@ -31,6 +31,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMacoto&layout=compact&theme=midnight-purple)
 
+### 📊 Contribuições no GitHub
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaMacoto&theme=react-dark)
+
+
 <br>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaMacoto&theme=tokyo-night)
