@@ -33,6 +33,11 @@
 
 <br>
 
+![Snake animation](https://github.com/RafaMacoto/RafaMacoto/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+
 ## Entre em contato comigo! 📮
 
 <div>
