@@ -29,20 +29,21 @@
 
 ## GitHub Stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMacoto&layout=compact&theme=midnight-purple)
-
 <div align="center">
+
+  ### 📊 Minhas Estatísticas no GitHub  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaMacoto&show_icons=true&theme=midnight-purple" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMacoto&layout=compact&langs_count=10&theme=midnight-purple" />
+
+  ### 🔥 Streaks & Contribuições  
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaMacoto&theme=midnight-purple)
+
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaMacoto&theme=midnight-purple)
+
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaMacoto&theme=midnight-purple)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaMacoto&theme=midnight-purple)
-
-
-### 📊 Contribuições no GitHub
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaMacoto&theme=react-dark)
 
 
 <br>
