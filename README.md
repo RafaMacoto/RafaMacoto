@@ -33,7 +33,7 @@
 
 <br>
 
-![Snake animation](https://github.com/RafaMacoto/RafaMacoto/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaMacoto&theme=tokyo-night)
 
 <br>
 
