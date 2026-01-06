@@ -28,9 +28,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaMacoto)
+![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaMacoto&theme=vue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMacoto)
+![GitHub Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaMacoto&theme=vue)
+
 
 <br>
 
