@@ -33,12 +33,11 @@
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaMacoto&theme=midnight-purple)
+![GitHub Streak](https://streak-stats.demolab.com?user=RafaMacoto&theme=midnight-purple)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaMacoto&theme=github-dark)
 
 </div>
-
 <br>
 
 ## 📮 Entre em contato  
