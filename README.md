@@ -28,9 +28,9 @@
 
 <div align="center">
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaMacoto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaMacoto)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMacoto&layout=compact&langs_count=8&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMacoto)
 
 <br>
 
