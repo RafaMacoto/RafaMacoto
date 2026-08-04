@@ -31,8 +31,8 @@
 
 </div>
 
-> 🧠 **IA & Dados**: Python aplicado a Inteligência Artificial, automações, análise de dados e fundamentos de Machine Learning (em aprofundamento na pós-graduação).
-> ☁️ **Cloud**: experiência com **AWS** e **Azure** para deploy, infraestrutura e serviços gerenciados.
+> 🧠 **IA & Dados**: Python aplicado a Inteligência Artificial, automações, análise de dados e fundamentos de Machine Learning (em aprofundamento na pós-graduação).<br>
+> ☁️ **Cloud**: experiência com **AWS** e **Azure** para deploy, infraestrutura e serviços gerenciados.<br>
 > ⚙️ **Backend**: **C#/.NET** e **Java** para construção de APIs e sistemas escaláveis.
 
 <br>
@@ -41,8 +41,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaMacoto&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMacoto&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=RafaMacoto&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaMacoto&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 <br>
 
@@ -59,7 +59,7 @@
 ## 🏆 Troféus
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RafaMacoto&theme=algolia&no-frame=true&row=1&column=6&margin-w=10"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=RafaMacoto&theme=algolia&no-frame=true&row=1&column=6&margin-w=10"/>
 </div>
 
 <br>
