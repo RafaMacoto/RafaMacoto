@@ -41,25 +41,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=RafaMacoto&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaMacoto&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=RafaMacoto&theme=midnight-purple&hide_border=true"/>
 
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaMacoto&theme=github-compact&hide_border=true"/>
 
-</div>
-
-<br>
-
-## 🏆 Troféus
-
-<div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=RafaMacoto&theme=algolia&no-frame=true&row=1&column=6&margin-w=10"/>
 </div>
 
 <br>
