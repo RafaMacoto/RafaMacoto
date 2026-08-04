@@ -24,13 +24,6 @@
 
 <br>
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaMacoto&theme=vue)
-
-![GitHub Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaMacoto&theme=vue)
 
 
 <br>
